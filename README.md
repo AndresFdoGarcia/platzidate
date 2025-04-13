@@ -7,7 +7,7 @@ Este es un paquete de Node.js que proporciona funciones para obtener fechas en f
 ## Instalación
 
 ```bash
-npm install platzidate
+npm install @andresfdogarcia/platzidate
 ```
 
 
